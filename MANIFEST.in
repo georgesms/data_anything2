@@ -1,0 +1,3 @@
+graft data_anything
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  data_anything/jupy *
